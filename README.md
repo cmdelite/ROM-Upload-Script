@@ -1,6 +1,6 @@
 # ROM Upload Automation Script
 
-Created by @cmdelite - Special thanks to DeepSeek Chat for development assistance
+Created by @cmdelite - Special thanks to DeepSeek Chat for development assistance and @dain09 for the initial script
 
 This script automatically finds, uploads, and shares ROM files via Google Drive with Telegram notifications.
 
@@ -64,6 +64,7 @@ License: MIT License
 Credits:
 - Script developed by @cmdelite]
 - With significant contributions from DeepSeek Chat AI assistant
+- @dain09 for initial script
 - Inspired by community ROM development workflows
 
 Pro Tip: Add to your build process to automatically share builds!
