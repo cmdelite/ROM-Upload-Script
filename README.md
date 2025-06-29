@@ -57,6 +57,7 @@ chmod +x rom_upload.sh
 - Permission denied: Run chmod +x rom_upload.sh
 - gdrive not found: Install from gdrive GitHub
 - Telegram messages not sending: Verify bot token and chat IDs
+- Link Private: Change permissions manually (drive.google.com)
 
 License: MIT License
 
