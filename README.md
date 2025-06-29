@@ -1,4 +1,4 @@
-ROM Upload Automation Script
+# ROM Upload Automation Script
 
 Created by @cmdelite - Special thanks to DeepSeek Chat for development assistance
 
